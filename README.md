@@ -1,5 +1,5 @@
 # Image-Generator-Website
-```markdown
+```
 # Image Generator Website
 
 This project is an **Image Generator** that allows users to search for images of their favorite animals (or any other query) and display the image along with a brief description. It uses the **Unsplash API** to fetch random images based on the user's search input.
