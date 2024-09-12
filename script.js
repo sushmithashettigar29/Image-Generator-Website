@@ -15,7 +15,7 @@ btn.addEventListener("click", function (event) {
     return;
   }
 
-  const unsplashUrl = `https://api.unsplash.com/photos/random?query=${query}&client_id=2yysYLFlrLBchV7e5xRf5erpK-DJqcfCv-Ae65yp7mM`;
+  const unsplashUrl = `https://api.unsplash.com/photos/random?query=${query}&client_id=your-access-key`;
 
   fetch(unsplashUrl)
     .then((response) => {
