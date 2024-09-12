@@ -4,7 +4,7 @@ This project is an **Image Generator** that allows users to search for images of
 
 ## Demo
 
-You can view the live version of the website here: [Netlify Live Demo](https://your-netlify-link-here)
+You can view the live version of the website here: [Netlify Live Demo](https://image-generator-website.netlify.app/)
 
 ## Features
 
