@@ -1,8 +1,4 @@
 # Image-Generator-Website
-Here's the entire content formatted properly for your `README.md` file:
-
----
-
 ```markdown
 # Image Generator Website
 
