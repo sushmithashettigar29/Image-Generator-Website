@@ -23,13 +23,13 @@ You can view the live version of the website here: [Netlify Live Demo](https://y
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/sushmithashettigar29/Image-Generator-Website.git
    ```
 
 2. Open the project folder:
 
    ```bash
-   cd your-repository
+   cd Image-Generator-Website
    ```
 
 3. You can directly open the `index.html` file in your browser or use any local server to run it.
